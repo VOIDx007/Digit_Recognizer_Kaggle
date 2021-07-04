@@ -15,3 +15,4 @@ The steps in the code are-->
 9. Predict the results using the test data and create "submission.csv" and the "sample-submission.csv" in the dataset file
 
 Uploading the submission result in kaggle compete, a score of **99.142%** accuracy was achieved.
+![Digit Recognizer](https://user-images.githubusercontent.com/49501411/124384849-cb89ce80-dcf0-11eb-9b05-3c0b6521b2a5.png)
